@@ -17,7 +17,7 @@ Addressing questions such as:
 
 The script is split into three main sections:
  1) Data Exploration
- 2) Modelling
+ 2) Modelling via linear regression, linear regression with penalty and ridge penalty, and random forest
  3) Discussion
 
 The data exploration section examines the structure
